@@ -1,0 +1,4 @@
+conf/allure-results/
+screenshots/
+target/
+node_modules/
